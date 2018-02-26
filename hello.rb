@@ -1,2 +1,1 @@
-puts "Hello Litvak Alik!"
-puts "I love everybody!"
+puts "This is a test worker"
